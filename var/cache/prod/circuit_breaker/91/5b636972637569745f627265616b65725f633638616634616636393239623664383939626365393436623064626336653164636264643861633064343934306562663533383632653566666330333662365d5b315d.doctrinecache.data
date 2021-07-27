@@ -1,0 +1,91 @@
+1627511022
+s:6150:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/pl/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/pl/blog/feed.xml</link>
+    <description></description>
+    <language>pl</language>
+     <atom:link href="https://www.prestashop.com/pl/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Jak opinie o produktach wpływają na sprzedaż w eCommerce?</title>
+    <link>https://www.prestashop.com/pl/blog/opinie-produktach-ecommerce</link>
+    <description>Jeden - z pozoru niewinny - element sklepu internetowego może radykalnie wpłynąć na wzrost sprzedaży i konwersji w eCommerce. O czym mowa?</description>
+     <pubDate>Tue, 20 Jul 2021 17:53:02 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/opinie-produktach-ecommerce</guid>
+  </item>
+  <item>
+    <title>PrestaShop Live Talks Polska - rozmowa z Szymonem Cibą z guliwerkids.pl</title>
+    <link>https://www.prestashop.com/pl/blog/prestashop-talk-guliwerkids</link>
+    <description>Olbrzymia dawka wiedzy na temat analityki, optymalizacji i skalowania sklepu internetowego.</description>
+     <pubDate>Mon, 12 Jul 2021 15:01:46 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/prestashop-talk-guliwerkids</guid>
+  </item>
+  <item>
+    <title>Reklama eCommerce w social media - Facebook, Instagram, Pinterest</title>
+    <link>https://www.prestashop.com/pl/blog/ecommerce-social-media</link>
+    <description>Social media to potężne narzędzie, które pozwala właścicielom eCommerce skuteczne dotarcie ze swoimi produktami do szerokiego grona odbiorców.</description>
+     <pubDate>Mon, 05 Jul 2021 14:36:59 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/ecommerce-social-media</guid>
+  </item>
+  <item>
+    <title>PrestaShop Live Talks Polska - rozmowa z Danielem Borowskim z Equishop.com</title>
+    <link>https://www.prestashop.com/pl/blog/live-talks-equishop</link>
+    <description>Podczas majowego spotkania PrestaShop Live Talks Polska z przedstawicielami sklepów internetowych opartych na naszej platformie, Country Manager PrestaShop w Polsce - Matthieu Bondu, rozmawiał z Da</description>
+     <pubDate>Mon, 05 Jul 2021 14:28:44 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/live-talks-equishop</guid>
+  </item>
+  <item>
+    <title>Wyprzedaże: czego oczekują Twoi klienci?</title>
+    <link>https://www.prestashop.com/pl/blog/wyprzedaze-klienci</link>
+    <description>Nie tylko handlowcy planują z wyprzedzeniem sezonowe wyprzedaże, które wciąż stanowią 20% ich rocznych obrotów.</description>
+     <pubDate>Mon, 28 Jun 2021 18:10:18 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/wyprzedaze-klienci</guid>
+  </item>
+  <item>
+    <title>4 elementy skutecznej kampanii Google Ads dla eCommerce</title>
+    <link>https://www.prestashop.com/pl/blog/google-ads-ecommerce</link>
+    <description>Kampania Google Ads, jak zapewne wiesz, to jedna z najskuteczniejszych i najszybszych metod pozyskiwania ruchu w witrynie sklepu internetowego, a co ważniejsze - </description>
+     <pubDate>Thu, 24 Jun 2021 18:05:10 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/google-ads-ecommerce</guid>
+  </item>
+  <item>
+    <title>SEO i PPC dla eCommerce - synergia idealna</title>
+    <link>https://www.prestashop.com/pl/blog/seo-ppc-synergia</link>
+    <description>Jeżeli zastanawiasz się, czy przy promocji sklepu internetowego postawić na SEO, czy reklamę PPC w wyszukiwarce, to odpowiedź jest prosta.</description>
+     <pubDate>Fri, 18 Jun 2021 13:42:08 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/seo-ppc-synergia</guid>
+  </item>
+  <item>
+    <title>E-commerce: jak śledzić swoje KPI?</title>
+    <link>https://www.prestashop.com/pl/blog/ecommerce-sledzic-kpi</link>
+    <description>W poprzednim artykule, wspomnieliśmy o znaczeniu kluczowych wskaźni</description>
+     <pubDate>Wed, 16 Jun 2021 19:00:59 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/ecommerce-sledzic-kpi</guid>
+  </item>
+  <item>
+    <title>Siedem wskazówek, jak przygotować się do wyprzedaży</title>
+    <link>https://www.prestashop.com/pl/blog/wskazowek-sprzedazy</link>
+    <description>W większości krajów Europy letnie wyprzedaże rozpoczną się pod koniec miesiąca: 30 czerwca we Francji, a w pierwszych dniach l</description>
+     <pubDate>Mon, 14 Jun 2021 18:20:05 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/wskazowek-sprzedazy</guid>
+  </item>
+  <item>
+    <title>4 wskaźniki efektywności kampanii PPC, które warto mierzyć w eCommerce</title>
+    <link>https://www.prestashop.com/pl/blog/kampanii-ppc-ecommerce</link>
+    <description>Utworzenie kampanii reklamowej PPC (Pay Per Click) nie jest wyjątkowo trudne. Sztuką natomiast jest taka jej optymalizacja, aby osiągać jak najlepsze wyniki jak najniższym kosztem.</description>
+     <pubDate>Thu, 10 Jun 2021 15:04:06 +0200</pubDate>
+ <dc:creator>Matthieu Bondu</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/pl/blog/kampanii-ppc-ecommerce</guid>
+  </item>
+  </channel>
+</rss>
+";
